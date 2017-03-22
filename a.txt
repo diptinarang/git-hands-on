@@ -1,2 +1,3 @@
 This is text inside a.txt
 abc
+1234
